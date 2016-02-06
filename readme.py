@@ -1,3 +1,3 @@
 #HI this is a tech orientation program
 
-print "Hell"
+print "Hello world"
